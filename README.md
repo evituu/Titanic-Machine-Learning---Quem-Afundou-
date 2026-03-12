@@ -3,6 +3,10 @@
 ### Imagem Local
 ![Imagem do Titanic](imagens/titanic_foto.jpg)
 
+### Imagem Externa
+
+![Imagem Externa](https://www.gettyimages.com.br/fotos/rms-titanic)
+
 ## **Linguagens do Projeto**
 
 * Python
