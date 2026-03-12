@@ -9,7 +9,7 @@
 
 ### Links Externa
 
-[Link Redirecionado](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
+[Link do Desafio do Kagle](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
 
 ## **Linguagens do Projeto**
 
@@ -34,4 +34,6 @@ Variáveis do treino
 
 ##
 
+## contribuidor Principal
 
+[Link do github](https://github.com/evituu)
