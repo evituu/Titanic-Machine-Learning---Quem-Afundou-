@@ -1,5 +1,8 @@
 # **Projeto de Machine Learning para prever quem vai morrer no Titanic**
 
+### Imagem Local
+![Imagem do Titanic](imagens/titanic_foto.jpg)
+
 ## **Linguagens do Projeto**
 
 * Python
