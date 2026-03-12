@@ -7,6 +7,10 @@
 
 ![Imagem Externa](https://www.gettyimages.com.br/fotos/rms-titanic)
 
+### Links Externa
+
+[Link Redirecionado](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
+
 ## **Linguagens do Projeto**
 
 * Python
