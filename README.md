@@ -1,11 +1,11 @@
-# Projeto de Machine Learning para prever quem vai morrer no Titanic
+# **Projeto de Machine Learning para prever quem vai morrer no Titanic**
 
-## Linguagens do Projeto
+## **Linguagens do Projeto**
 
 * Python
 * CSS
 
-## Base de dados utilizadas
+## **Base de dados utilizadas**
 
 ### Base de Treino
 
@@ -19,7 +19,7 @@ Variáveis do treino
 
 * item
 
-## Tratamento Realizados
+## **Tratamento Realizados**
 
 ##
 
